@@ -5,8 +5,9 @@ import (
 	"fmt"
 	"log"
 	"net"
+
 	//t "time"
-	myPackage"github.com/SDeLaVida/disys-week5/pestotesto"
+	myPackage "github.com/SDeLaVida/disys-week5/pestotesto/testopesto"
 	"google.golang.org/grpc"
 )
 

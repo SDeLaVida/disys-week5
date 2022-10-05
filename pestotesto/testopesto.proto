@@ -1,4 +1,4 @@
 syntax = "proto3";
 
 package testopesto;
-option go_package = "https://github.com/SDeLaVida/disys-week5;testopesto";
+option go_package = "https://github.com/SDeLaVida/disys-week5;pestotesto";
