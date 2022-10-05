@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+package testopesto;
+option go_package = "https://github.com/SDeLaVida/disys-week5;testopesto";
+
+service getCurrentTime {
+    rpc getTime (GetTimeRequest) returns (GetTimeReply) {}
+}
+
+message GetTimeRequest {}
+
+message GetTimeReply {
+    string reply = 1;
+}

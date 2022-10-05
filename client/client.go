@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"log"
 	"google.golang.org/grpc"
-	myPackage"github.com/SDeLaVida/disys-week5/pestotesto"
+	myPackage"github.com/SDeLaVida/disys-week5/testopesto"
 )
 
 func main() {
